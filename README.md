@@ -1,5 +1,5 @@
 # Pokedex - A Pokemon Search Engine
-### This Pokedex is a comprehensive application that allows users to search for Pokemon data, display detailed information about each Pokemon, and interact with a user-friendly interface. The application is built using modern web technologies and follows best practices for both frontend and backend development.
+This Pokedex is a comprehensive application that allows users to search for Pokemon data, display detailed information about each Pokemon, and interact with a user-friendly interface. The application is built using modern web technologies and follows best practices for both frontend and backend development.
 
 ## Overview
 ### The Pokedex  consists of two main parts:
